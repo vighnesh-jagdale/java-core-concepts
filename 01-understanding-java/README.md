@@ -11,8 +11,8 @@ To build strong Java fundamentals before moving to:
 
 - Spring Boot
 - Backend Development
-- System Design
 - DSA
+- System Design
 - Interview Preparation
 
 ---
@@ -103,7 +103,7 @@ java FileName
 🛠 Tech Stack
 
 - Java 17+
-- VS Code / IntelliJ
+- VS Code
 - Git & GitHub
 
 ---
@@ -118,8 +118,8 @@ This repo acts as my personal knowledge base and interview preparation resource.
 ⭐ Future Plans
 
 - Add coding challenges
+- DSA problems
 - Add mini projects
-- Add unit tests
 - Add Spring Boot transition repo
 
 ---
