@@ -1,5 +1,5 @@
 public class Conditional{
-    public static void main{
+    public static void main(String []args){
         //Conditional Statements are used in decision making this statements checks the condition and then decides what to do next based on whether the condition is true or false
 
         // 1) If-Else Statement:

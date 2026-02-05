@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class variables{
     public static void main(String []args){
 
@@ -43,4 +44,11 @@ public class variables{
         int a = 130;
         byte b = (int)a;
     }
+
+
+        //taking input from user - we needto import Scanner class and then make object of Scanner
+        Scanner sc = new Scanner(System.in);
+
+        int age = sc.nextInt();
+        System.out.println("Age is : " + age);
 }
