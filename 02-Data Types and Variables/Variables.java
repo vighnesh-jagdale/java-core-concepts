@@ -42,6 +42,5 @@ public class variables{
 */
         int a = 130;
         byte b = (int)a;
-
     }
 }
